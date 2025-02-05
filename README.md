@@ -11,3 +11,4 @@
 
 <div align='start'>
 <h1>contact me:</h1>
+<h2><p dir="auto">🗣 I regulary not only code, also I'am an Android blogger with +57k followers on <a href="[https://www.instagram.com/dunijet](https://dribbble.com/search/neomorphism)" rel="nofollow">Dunijet</a></p></h2>
