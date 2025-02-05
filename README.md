@@ -1,7 +1,7 @@
 <div align='center'>
-    <h1>hello</h1>
+    <h1>Welcome👋</h1>
 
-<p align=;start>welcome</p>
+<p align=;start>🚀This is the repository for my projects, where ideas turn into code.</p>
 
 
 <div/>
